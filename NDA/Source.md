@@ -1,16 +1,19 @@
-Doc.Title=MUTUAL NONDISCLOSURE Agreement
- Confidential_Information=<font color=“green”>Confidential Information</font>
- Agreement=<font color=“green”>Agreement</font>
- Recipient=<font color=“green”>Recipient</font>
- Discloser=<font color=“green”>Discloser</font>
+Doc.Title=Mutual Nondisclosure Agreement
+ 
+Confidential_Information=<font color=“green”>Confidential Information</font>
+
+Agreement=<font color=“green”>Agreement</font>
+
+Recipient=<font color=“green”>Recipient</font>
+
+Discloser=<font color=“green”>Discloser</font>
 
 
-
-0.1.sec=This Mutual Nondisclosure Agreement (this “{Agreement}”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “Company”), and {P2.N,E,A} (“Counterparty”).  Each party has disclosed and/or may further disclose its {Confidential Information} (as defined below) to the other in connection with the Relationship (as defined below) pursuant to the terms and conditions of this {Agreement}.  The term “{Discloser}” will refer to the Company whenever the context refers to the Company’s {Confidential Information} being disclosed to Counterparty, which is referred to as “{Recipient}” in that context.  Conversely, the term “{Discloser}” will refer to Counterparty whenever the context refers to Counterparty’s {Confidential Information} being disclosed to the Company, which is referred to as “{Recipient}” in that context. 
+0.1.sec=This {Doc.Title} (this “{Agreement}”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “{Company}”), and {P2.N,E,A} (“{Counterparty}”).  Each party has disclosed and/or may further disclose its {Confidential Information} (as defined below) to the other in connection with the {Relationship} (as defined below) pursuant to the terms and conditions of this {Agreement}.  The term “{Discloser}” will refer to the {Company} whenever the context refers to the {Company}’s {Confidential Information} being disclosed to {Counterparty}, which is referred to as “{Recipient}” in that context.  Conversely, the term “{Discloser}” will refer to {Counterparty} whenever the context refers to {Counterparty}’s {Confidential Information} being disclosed to the {Company}, which is referred to as “{Recipient}” in that context. 
 
 0.2.sec=RECITALS
 
-0.3.sec=The parties wish to {Purpose.Description} (the “Relationship”) in connection with which {Discloser} has disclosed and/or may further disclose its {Confidential Information} (as defined below) to {Recipient}.  This {Agreement} is intended to protect {Discloser}’s {Confidential Information} (including {Confidential Information} previously disclosed to {Recipient}) against unauthorized use or disclosure.
+0.3.sec=The parties wish to {Purpose.Description} (the “{Relationship}”) in connection with which {Discloser} has disclosed and/or may further disclose its {Confidential Information} (as defined below) to {Recipient}.  This {Agreement} is intended to protect {Discloser}’s {Confidential Information} (including {Confidential Information} previously disclosed to {Recipient}) against unauthorized use or disclosure.
 
 0.4.sec={Agreement}
 
@@ -20,7 +23,7 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 1.Ti=Definition of Confidential Information
 
-1.sec=“{Confidential Information}” means information and physical material not generally known or available outside {Discloser} and information and physical material entrusted to {Discloser} in confidence by third parties.  {Confidential Information} includes, without limitation:  technical data, trade secrets, know-how, research, product or service ideas or plans, software codes and designs, algorithms, developments, inventions, patent applications, laboratory notebooks, processes, formulas, techniques, mask works, engineering designs and drawings, hardware configuration information, {Agreement}s with third parties, lists of, or information relating to, employees and consultants of the {Discloser} (including, but not limited to, the names, contact information, jobs, compensation, and expertise of such employees and consultants), lists of, or information relating to, suppliers and customers, price lists, pricing methodologies, cost data, market share data, marketing plans, licenses, contract information, business plans, financial forecasts, historical financial data, budgets or other business information disclosed by {Discloser} (whether by oral, written, graphic or machine-readable format).
+1.sec=“{Confidential Information}” means information and physical material not generally known or available outside {Discloser} and information and physical material entrusted to {Discloser} in confidence by third parties.  {Confidential Information} includes, without limitation:  technical data, trade secrets, know-how, research, product or service ideas or plans, software codes and designs, algorithms, developments, inventions, patent applications, laboratory notebooks, processes, formulas, techniques, mask works, engineering designs and drawings, hardware configuration information, {Agreements} with third parties, lists of, or information relating to, employees and consultants of the {Discloser} (including, but not limited to, the names, contact information, jobs, compensation, and expertise of such employees and consultants), lists of, or information relating to, suppliers and customers, price lists, pricing methodologies, cost data, market share data, marketing plans, licenses, contract information, business plans, financial forecasts, historical financial data, budgets or other business information disclosed by {Discloser} (whether by oral, written, graphic or machine-readable format).
 
 2.Ti=Nondisclosure of Confidential Information
 
@@ -48,7 +51,7 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 4.Ti=Return of Materials
 
-4.sec={Recipient} will, except as otherwise expressly authorized by {Discloser}, not make any copies or duplicates of any {Confidential Information}.  Any materials or documents that have been furnished by {Discloser} to {Recipient} in connection with the Relationship will be promptly returned by {Recipient}, accompanied by all copies of documentation, within ten (10) days after (a) the Relationship has been rejected or concluded or (b) the written request of {Discloser}.
+4.sec={Recipient} will, except as otherwise expressly authorized by {Discloser}, not make any copies or duplicates of any {Confidential Information}.  Any materials or documents that have been furnished by {Discloser} to {Recipient} in connection with the {Relationship} will be promptly returned by {Recipient}, accompanied by all copies of documentation, within ten (10) days after (a) the Relationship has been rejected or concluded or (b) the written request of {Discloser}.
 
 5.Ti=No Rights Granted
 
@@ -56,7 +59,7 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 6.Ti=No Representations Made.  
 
-6.sec={Recipient} acknowledges that neither {Discloser}, nor any of its representatives, in the course of providing the {Confidential Information} is making any representation or warranty (express or implied) as to the accuracy or completeness of the information, and {Recipient} assumes full responsibility for all conclusions derived from the information.  {Recipient} will be entitled to, and will, rely solely on representations and warranties made in a definitive {Agreement}, if any, relating to the Relationship.
+6.sec={Recipient} acknowledges that neither {Discloser}, nor any of its representatives, in the course of providing the {Confidential Information} is making any representation or warranty (express or implied) as to the accuracy or completeness of the information, and {Recipient} assumes full responsibility for all conclusions derived from the information.  {Recipient} will be entitled to, and will, rely solely on representations and warranties made in a definitive {Agreement}, if any, relating to the {Relationship}.
 
 7.Ti=No Reverse Engineering.  
 
@@ -64,15 +67,15 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 8.Ti=Notice of Compelled Disclosure. 
 
-8.sec=In the event that {Recipient} or any person to whom they or their representatives transmit or have transmitted {Confidential Information} become legally compelled (by oral questions, interrogatories, requests for information or documents, subpoenas, civil investigative demands or otherwise) to disclose any {Confidential Information}, the {Recipient} will provide the {Discloser} with prompt written notice so that the {Discloser} may seek a protective order or other appropriate remedy, or both, or waive compliance with the provisions of this {Agreement}.  In the event that the {Discloser} is unable to obtain a protective order or other appropriate remedy, or if it so directs the {Recipient}, the {Recipient} will furnish only that portion of the {Confidential Information} that the {Recipient} is advised by written opinion of its counsel is legally required to be furnished by it and will exercise its reasonable best efforts to obtain reliable assurance that confidential treatment will be accorded such {Confidential Information}.
+8.sec=In the event that {Recipient} or any person to whom they or their representatives transmit or have transmitted {Confidential_Information} become legally compelled (by oral questions, interrogatories, requests for information or documents, subpoenas, civil investigative demands or otherwise) to disclose any {Confidential_Information}, the {Recipient} will provide the {Discloser} with prompt written notice so that the {Discloser} may seek a protective order or other appropriate remedy, or both, or waive compliance with the provisions of this {Agreement}.  In the event that the {Discloser} is unable to obtain a protective order or other appropriate remedy, or if it so directs the {Recipient}, the {Recipient} will furnish only that portion of the {Confidential_Information} that the {Recipient} is advised by written opinion of its counsel is legally required to be furnished by it and will exercise its reasonable best efforts to obtain reliable assurance that confidential treatment will be accorded such {Confidential_Information}.
 
 9.Ti=Common Interest Agreement.  
 
-9.sec=To the extent that any {Confidential Information} provided or made available may include material subject to the attorney-client privilege, work product doctrine or any other applicable privilege concerning pending or threatened legal proceedings or governmental investigations, {Recipient} and {Discloser} understand and agree that they have a commonality of interest with respect to such matters.  It is their desire and mutual understanding that the sharing of material is not intended to, and will not, waive or diminish in any way the confidentiality of the material or its continued protection under the attorney-client privilege, work product doctrine or other applicable privilege.  All {Confidential Information} provided or made available by {Discloser} that is entitled to protection under the attorney-client privilege, work product doctrine or other applicable privilege will remain entitled to that protection under these privileges, this {Agreement}, and under the joint defense doctrine.  Nothing in this {Agreement} obligates {Discloser} to reveal material subject to the attorney-client privilege, work product doctrine or any other applicable privilege.
+9.sec=To the extent that any {Confidential_Information} provided or made available may include material subject to the attorney-client privilege, work product doctrine or any other applicable privilege concerning pending or threatened legal proceedings or governmental investigations, {Recipient} and {Discloser} understand and agree that they have a commonality of interest with respect to such matters.  It is their desire and mutual understanding that the sharing of material is not intended to, and will not, waive or diminish in any way the confidentiality of the material or its continued protection under the attorney-client privilege, work product doctrine or other applicable privilege.  All {Confidential_Information} provided or made available by {Discloser} that is entitled to protection under the attorney-client privilege, work product doctrine or other applicable privilege will remain entitled to that protection under these privileges, this {Agreement}, and under the joint defense doctrine.  Nothing in this {Agreement} obligates {Discloser} to reveal material subject to the attorney-client privilege, work product doctrine or any other applicable privilege.
 
 10.Ti=Term.  
 
-10.sec=The foregoing commitments of each party will survive any termination of the Relationship between the parties, and will continue for a period terminating five (5) years from the date on which {Confidential Information} is last disclosed under this {Agreement}. 
+10.sec=The foregoing commitments of each party will survive any termination of the Relationship between the parties, and will continue for a period terminating five (5) years from the date on which {Confidential_Information} is last disclosed under this {Agreement}. 
 
 11.Ti=Independent Contractors.  
 
@@ -80,7 +83,7 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 12.Ti=Remedies.  
 
-12.sec=Each party’s obligations set forth in this {Agreement} are necessary and reasonable in order to protect {Discloser} and its business.  Due to the unique nature of {Discloser}’s {Confidential Information}, monetary damages may be inadequate to compensate {Discloser} for any breach by {Recipient} of its covenants and {Agreement}s set forth in this {Agreement}.  Accordingly, the parties each agree and acknowledge that any violation or threatened violation may cause irreparable injury to {Discloser}.  In addition to any other remedies that may be available, in law, in equity or otherwise, {Discloser} will be entitled to obtain injunctive relief against the threatened breach of this {Agreement} or the continuation of any breach by {Recipient}. 
+12.sec=Each party’s obligations set forth in this {Agreement} are necessary and reasonable in order to protect {Discloser} and its business.  Due to the unique nature of {Discloser}’s {Confidential_Information}, monetary damages may be inadequate to compensate {Discloser} for any breach by {Recipient} of its covenants and agreements set forth in this {Agreement}.  Accordingly, the parties each agree and acknowledge that any violation or threatened violation may cause irreparable injury to {Discloser}.  In addition to any other remedies that may be available, in law, in equity or otherwise, {Discloser} will be entitled to obtain injunctive relief against the threatened breach of this {Agreement} or the continuation of any breach by {Recipient}. 
 
 13.Ti=Miscellaneous
 
@@ -90,7 +93,7 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 13.2.Ti=Entire Agreement.  
 
-13.2.sec=This {Agreement} contains the complete {Agreement} of the parties regarding relating to the subject matter and supersedes all prior or contemporaneous discussions, understandings and {Agreement}s, whether oral or written.  This {Agreement} may be modified only in writing signed by both parties.  
+13.2.sec=This {Agreement} contains the complete {Agreement} of the parties regarding relating to the subject matter and supersedes all prior or contemporaneous discussions, understandings and agreements, whether oral or written.  This {Agreement} may be modified only in writing signed by both parties.  
 
 13.3.Ti=Non-Waiver and Binding Affect.
 
@@ -102,7 +105,7 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 13.5.Ti=Notices.
 
-13.5.sec=Any notice, demand or request required or permitted to be given under this {Agreement} will be in writing and will be deemed sufficient when delivered personally or by overnight courier or sent by email, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at the party’s address as set forth on the signature page, as subsequently modified by written notice, or if no address is specified on the signature page, at the most recent address set forth in the Company’s books and records. 
+13.5.sec=Any notice, demand or request required or permitted to be given under this {Agreement} will be in writing and will be deemed sufficient when delivered personally or by overnight courier or sent by email, or 48 hours after being deposited in the U.S. mail as certified or registered mail with postage prepaid, addressed to the party to be notified at the party’s address as set forth on the signature page, as subsequently modified by written notice, or if no address is specified on the signature page, at the most recent address set forth in the {Company}’s books and records. 
 
 13.6.Ti=Severability.
 
@@ -121,7 +124,7 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 90.1.sec={Signature Page Follows}
  
-90.2.sec=The parties have executed this Mutual Nondisclosure {Agreement} as of the date first above written.
+90.2.sec=The parties have executed this {Doc.Title} as of the date first above written.
 
 90.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 
@@ -131,13 +134,3 @@ Doc.Title=MUTUAL NONDISCLOSURE Agreement
 
 DocBody={Doc}
 
-COMPANY		   COUNTERPARTY
-	
-By:	                                                          
-By:	                                                           
-Printed:	                                                           
-Printed:	                                                           
-Title:	                                                          
-Title:	                                                           
-Date:	                                                         
-Date:  
