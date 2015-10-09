@@ -8,36 +8,46 @@ Recipient=<font color=“green”>Recipient</font>
 
 Discloser=<font color=“green”>Discloser</font>
 
+Company=<font color=“green”>Company</font>
 
-0.1.sec=This {Doc.Title} (this “{Agreement}”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “{Company}”), and {P2.N,E,A} (“{Counterparty}”).  Each party has disclosed and/or may further disclose its {Confidential Information} (as defined below) to the other in connection with the {Relationship} (as defined below) pursuant to the terms and conditions of this {Agreement}.  The term “{Discloser}” will refer to the {Company} whenever the context refers to the {Company}’s {Confidential Information} being disclosed to {Counterparty}, which is referred to as “{Recipient}” in that context.  Conversely, the term “{Discloser}” will refer to {Counterparty} whenever the context refers to {Counterparty}’s {Confidential Information} being disclosed to the {Company}, which is referred to as “{Recipient}” in that context. 
+Counterparty=<font color=“green”>Counterparty</font>
+
+Relationship=<font color=“green”>Relationship</font>
+
+
+0.1.sec=This {Doc.Title} (this “{Agreement}”) is made as of {EffectiveDate.YMD}, by and between {P1.N,E,A} (the “{Company}”), and {P2.N,E,A} (“{Counterparty}”).  Each party has disclosed and/or may further disclose its {Confidential_Information} (as defined below) to the other in connection with the {Relationship} (as defined below) pursuant to the terms and conditions of this {Agreement}.  The term “{Discloser}” will refer to the {Company} whenever the context refers to the {Company}’s {Confidential_Information} being disclosed to {Counterparty}, which is referred to as “{Recipient}” in that context.  Conversely, the term “{Discloser}” will refer to {Counterparty} whenever the context refers to {Counterparty}’s {Confidential_Information} being disclosed to the {Company}, which is referred to as “{Recipient}” in that context. 
 
 0.2.sec=RECITALS
 
-0.3.sec=The parties wish to {Purpose.Description} (the “{Relationship}”) in connection with which {Discloser} has disclosed and/or may further disclose its {Confidential Information} (as defined below) to {Recipient}.  This {Agreement} is intended to protect {Discloser}’s {Confidential Information} (including {Confidential Information} previously disclosed to {Recipient}) against unauthorized use or disclosure.
+0.3.sec=The parties wish to {Purpose.Description} (the “{Relationship}”) in connection with which {Discloser} has disclosed and/or may further disclose its {Confidential_Information} (as defined below) to {Recipient}.  This {Agreement} is intended to protect {Discloser}’s {Confidential_Information} (including {Confidential_Information} previously disclosed to {Recipient}) against unauthorized use or disclosure.
 
 0.4.sec={Agreement}
 
 0.5.sec=In consideration of the premises and mutual covenants, the parties agree as follows:
 
+Note=No title on the introduction:
+
+0.Sec={0.sec}
+
 0.=[Z/paras/s5]
 
 1.Ti=Definition of Confidential Information
 
-1.sec=“{Confidential Information}” means information and physical material not generally known or available outside {Discloser} and information and physical material entrusted to {Discloser} in confidence by third parties.  {Confidential Information} includes, without limitation:  technical data, trade secrets, know-how, research, product or service ideas or plans, software codes and designs, algorithms, developments, inventions, patent applications, laboratory notebooks, processes, formulas, techniques, mask works, engineering designs and drawings, hardware configuration information, {Agreements} with third parties, lists of, or information relating to, employees and consultants of the {Discloser} (including, but not limited to, the names, contact information, jobs, compensation, and expertise of such employees and consultants), lists of, or information relating to, suppliers and customers, price lists, pricing methodologies, cost data, market share data, marketing plans, licenses, contract information, business plans, financial forecasts, historical financial data, budgets or other business information disclosed by {Discloser} (whether by oral, written, graphic or machine-readable format).
+1.sec=“{Confidential_Information}” means information and physical material not generally known or available outside {Discloser} and information and physical material entrusted to {Discloser} in confidence by third parties.  {Confidential_Information} includes, without limitation:  technical data, trade secrets, know-how, research, product or service ideas or plans, software codes and designs, algorithms, developments, inventions, patent applications, laboratory notebooks, processes, formulas, techniques, mask works, engineering designs and drawings, hardware configuration information, agreements with third parties, lists of, or information relating to, employees and consultants of the {Discloser} (including, but not limited to, the names, contact information, jobs, compensation, and expertise of such employees and consultants), lists of, or information relating to, suppliers and customers, price lists, pricing methodologies, cost data, market share data, marketing plans, licenses, contract information, business plans, financial forecasts, historical financial data, budgets or other business information disclosed by {Discloser} (whether by oral, written, graphic or machine-readable format).
 
 2.Ti=Nondisclosure of Confidential Information
 
-2.sec={Recipient} will not use any {Confidential Information} disclosed to it by {Discloser} for its own use or for any purpose other than to carry out discussions concerning, and the undertaking of, the Relationship.  {Recipient} will not disclose or permit disclosure of any {Confidential Information} of {Discloser} to third parties or to employees of {Recipient}, other than directors, officers, employees, consultants and agents of {Recipient} who are required to have the information in order to carry out the Relationship.  {Recipient} will take reasonable measures to protect the secrecy of and avoid disclosure or use of {Confidential Information} of {Discloser} in order to prevent it from falling into the public domain or the possession of persons other than those persons authorized under this {Agreement} to have the information. These measures will include the degree of care that {Recipient} utilizes to protect its own {Confidential Information} of a similar nature.  {Recipient} will notify {Discloser} of any misuse, misappropriation or unauthorized disclosure of {Confidential Information} of {Discloser} which may come to {Recipient}’s attention.
+2.sec={Recipient} will not use any {Confidential_Information} disclosed to it by {Discloser} for its own use or for any purpose other than to carry out discussions concerning, and the undertaking of, the Relationship.  {Recipient} will not disclose or permit disclosure of any {Confidential_Information} of {Discloser} to third parties or to employees of {Recipient}, other than directors, officers, employees, consultants and agents of {Recipient} who are required to have the information in order to carry out the Relationship.  {Recipient} will take reasonable measures to protect the secrecy of and avoid disclosure or use of {Confidential_Information} of {Discloser} in order to prevent it from falling into the public domain or the possession of persons other than those persons authorized under this {Agreement} to have the information. These measures will include the degree of care that {Recipient} utilizes to protect its own {Confidential_Information} of a similar nature.  {Recipient} will notify {Discloser} of any misuse, misappropriation or unauthorized disclosure of {Confidential_Information} of {Discloser} which may come to {Recipient}’s attention.
 
 3.Ti=Exceptions
 
-3.0.sec=Notwithstanding the above, {Recipient} will not have liability to {Discloser} with regard to any {Confidential Information} that the {Recipient} can prove:
+3.0.sec=Notwithstanding the above, {Recipient} will not have liability to {Discloser} with regard to any {Confidential_Information} that the {Recipient} can prove:
 
 3.1.sec=was in the public domain at the time it was disclosed or has entered the public domain through no fault of {Recipient};
 
 3.2.sec=was known to {Recipient}, without restriction, at the time of disclosure, as demonstrated by files in existence at the time of disclosure;
 
-3.3.sec=was independently developed by {Recipient} without any use of the {Confidential Information}, as demonstrated by files created at the time of such independent development; 
+3.3.sec=was independently developed by {Recipient} without any use of the {Confidential_Information}, as demonstrated by files created at the time of such independent development; 
 
 3.4.sec=is disclosed generally to third parties by {Discloser} without restrictions similar to those contained in this {Agreement}; 
 
@@ -51,19 +61,19 @@ Discloser=<font color=“green”>Discloser</font>
 
 4.Ti=Return of Materials
 
-4.sec={Recipient} will, except as otherwise expressly authorized by {Discloser}, not make any copies or duplicates of any {Confidential Information}.  Any materials or documents that have been furnished by {Discloser} to {Recipient} in connection with the {Relationship} will be promptly returned by {Recipient}, accompanied by all copies of documentation, within ten (10) days after (a) the Relationship has been rejected or concluded or (b) the written request of {Discloser}.
+4.sec={Recipient} will, except as otherwise expressly authorized by {Discloser}, not make any copies or duplicates of any {Confidential_Information}.  Any materials or documents that have been furnished by {Discloser} to {Recipient} in connection with the {Relationship} will be promptly returned by {Recipient}, accompanied by all copies of documentation, within ten (10) days after (a) the Relationship has been rejected or concluded or (b) the written request of {Discloser}.
 
 5.Ti=No Rights Granted
 
-5.sec=Nothing in this {Agreement} will be construed as granting any rights under any patent, copyright or other intellectual property right of {Discloser}, nor will this {Agreement} grant {Recipient} any rights in or to {Discloser}’s {Confidential Information} other than the limited right to review such {Confidential Information} solely for the purpose of carrying out the Relationship.  Nothing in this {Agreement} requires the disclosure of any {Confidential Information}, which will be disclosed, if at all, solely at {Discloser}’s option.  Nothing in this {Agreement} requires the {Discloser} to proceed with the Relationship or any transaction in connection with which the {Confidential Information} may be disclosed.
+5.sec=Nothing in this {Agreement} will be construed as granting any rights under any patent, copyright or other intellectual property right of {Discloser}, nor will this {Agreement} grant {Recipient} any rights in or to {Discloser}’s {Confidential_Information} other than the limited right to review such {Confidential_Information} solely for the purpose of carrying out the Relationship.  Nothing in this {Agreement} requires the disclosure of any {Confidential_Information}, which will be disclosed, if at all, solely at {Discloser}’s option.  Nothing in this {Agreement} requires the {Discloser} to proceed with the Relationship or any transaction in connection with which the {Confidential_Information} may be disclosed.
 
 6.Ti=No Representations Made.  
 
-6.sec={Recipient} acknowledges that neither {Discloser}, nor any of its representatives, in the course of providing the {Confidential Information} is making any representation or warranty (express or implied) as to the accuracy or completeness of the information, and {Recipient} assumes full responsibility for all conclusions derived from the information.  {Recipient} will be entitled to, and will, rely solely on representations and warranties made in a definitive {Agreement}, if any, relating to the {Relationship}.
+6.sec={Recipient} acknowledges that neither {Discloser}, nor any of its representatives, in the course of providing the {Confidential_Information} is making any representation or warranty (express or implied) as to the accuracy or completeness of the information, and {Recipient} assumes full responsibility for all conclusions derived from the information.  {Recipient} will be entitled to, and will, rely solely on representations and warranties made in a definitive {Agreement}, if any, relating to the {Relationship}.
 
 7.Ti=No Reverse Engineering.  
 
-7.sec={Recipient} will not modify, reverse engineer, decompile, create other works from or disassemble any software programs contained in the {Confidential Information} of {Discloser} unless permitted in writing by {Discloser}. 
+7.sec={Recipient} will not modify, reverse engineer, decompile, create other works from or disassemble any software programs contained in the {Confidential_Information} of {Discloser} unless permitted in writing by {Discloser}. 
 
 8.Ti=Notice of Compelled Disclosure. 
 
@@ -128,9 +138,10 @@ Discloser=<font color=“green”>Discloser</font>
 
 90.3.sec={P1.Sign.Block}<br>{P2.Sign.Block}
 
+90.Sec={90.sec}
+
 90.=[Z/paras/s3]
 
 =[Z/ol/13]
 
-DocBody={Doc}
-
+DocBody={Doc}  
